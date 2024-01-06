@@ -6,10 +6,9 @@
 # Introducing
 
 adalah website yang ditujukan untuk membantu manusia berbelanja furniture secara online dan efisien.
-
 memakai UI yang minimalis, agar lebih user friendly dan juga tidak lepas dari brand image website yaitu “luxurious”
-
-###demo https://mvp-landing-page-harisenin-com.vercel.app/
+### demo 
+https://mvp-landing-page-harisenin-com.vercel.app/
 
 
 
