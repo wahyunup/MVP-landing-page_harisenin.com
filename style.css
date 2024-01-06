@@ -203,7 +203,7 @@ body{
     }
 }
 
-@media screen and (max-width:360px){
+@media screen and (max-width:396px){
     .order-now{
         background-color: #DDC190;
     }
@@ -220,19 +220,19 @@ body{
 
     .hero{
         display: flex;
-        margin-left: -17px;
+        margin-left: -30px;
     }
 
     .hero .form-control{
-        width: 270px;
+        width: 320px;
     }
 
     .button .sign-up a{
-        padding: 8px 104px !important;
+        padding: 8px 129px !important;
     }
 
     .wrapper img{
-        width: 250px;
+        width: 300px;
         margin-left: 9px;
         margin-top: -250px;
     }
